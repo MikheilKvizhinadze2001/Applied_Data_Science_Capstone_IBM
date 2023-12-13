@@ -6,4 +6,6 @@ This project serves as a comprehensive capstone for the IBM Data Science Profess
 Please feel free to explore the notebooks and gain valuable insights into the data science process. Your feedback and suggestions are highly appreciated!
 
 Link to the course: https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
+
+
 Link to the certification: https://www.coursera.org/professional-certificates/ibm-data-science
